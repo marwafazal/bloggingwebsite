@@ -1,0 +1,25 @@
+{
+  "name": "bloggingwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwafazal/bloggingwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwafazal/bloggingwebsite/issues"
+  },
+  "homepage": "https://github.com/marwafazal/bloggingwebsite#readme",
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "parcel": "^2.13.3",
+    "stylelint": "^16.13.2"
+  }
+}
